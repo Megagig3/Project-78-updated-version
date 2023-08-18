@@ -1,0 +1,14 @@
+ body {
+   color:rgba(70, 95, 220, 0.777);
+   background-color:wheat;
+ }
+
+ button {
+    width: 150px;
+    height: 100px;
+    color: blue;
+    background-color: rgba(73, 237, 149, 0.714);
+    border-style: dashed;
+    font-size: larger;
+ }
+  
